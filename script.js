@@ -14,3 +14,13 @@ console.log(add(4,5));
 const addNewFeature = () =>{
   console.log("This is a new feature");
 }
+const addNewFeatureB = () => {
+  console.log("This is a new featureB");
+ 
+}
+const addNewFeatureC = () => {
+  console.log("This is a new featureC");
+}
+const addNewFeatureD = () => {
+  console.log("This is a new featureD");
+} 
