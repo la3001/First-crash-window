@@ -11,8 +11,8 @@ function calculNum(c,d) {
 const add = (e,f)=> {
 console.log(add(4,5));
 }
-const addNewFeature = () =>{
-  console.log("This is a new feature");
+const addNewFeatureA = () =>{
+  console.log("This is a new featureA");
 }
 const addNewFeatureB = () => {
   console.log("This is a new featureB");
