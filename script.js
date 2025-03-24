@@ -1,3 +1,16 @@
+
+
+const age = 18;
+if(age >= 20){
+  console.log("elder");
+}
+else if(age==18){
+  console.log("Younger");
+}
+
+
+
+
 function num(a,b){
   console.log(num);
 }
