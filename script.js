@@ -3,4 +3,4 @@ const student = {
   cgpa: 3.50,
   isPass: "true",
 }
-console.log(student);
+console.log("student"= cgpa);
